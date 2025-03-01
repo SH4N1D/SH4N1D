@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Shanid from kerala<br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about data Science , and data analytics</p>
+<p align="left">I'm Shanid from kerala<br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p>
 
 ###
 
