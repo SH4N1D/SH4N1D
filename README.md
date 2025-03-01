@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+   <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSPlROMQTO6NAkYczw2qoAP8lRMllg1-NNA&s)" height="40" alt="LOGO"  />
 </div>
 
 ###
