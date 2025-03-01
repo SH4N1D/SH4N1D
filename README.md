@@ -13,17 +13,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/474x/75/8f/4b/758f4bcf517d5f7c54c395340975c7a8.jpg"  />
-
-###
 
 <p align="left">I'm Shanid from kerala<br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p>
 
