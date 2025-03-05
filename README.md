@@ -16,10 +16,6 @@
 <a href="https://discord.com/users/871299683274870784">
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="Discord"/>
 </a>
-
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/871299683274870784)
-
   
 </div>
 
