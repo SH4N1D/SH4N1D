@@ -36,6 +36,7 @@
 
 ###
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -50,7 +51,7 @@
   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/574dbe16-1a7b-4787-9aaf-0990bffba958/1398037130/matplotlib-Matplotlib_icon.svg.png" height="40" alt="LOGO"  />
 </div>
 
-
+-->
 
 ## 🔥 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
