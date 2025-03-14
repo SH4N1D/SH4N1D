@@ -52,54 +52,56 @@
 
 
 
-# 💡 Data Science & Machine Learning Skillset  
-
 ## 🔥 Programming Languages  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> Python</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/> SQL</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/> Bash</span>  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
 
 ## 📚 Libraries & Frameworks  
 ### 🏆 Machine Learning  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px"/> Scikit-Learn</span>  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)  
 
 ### 🧠 Deep Learning  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/> TensorFlow</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/> PyTorch</span>  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px"/> Keras</span>  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)  
 
 ### 📊 Data Analysis & Processing  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/> NumPy</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/> Pandas</span>  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40px"/> SciPy</span>  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)  
 
 ### 🎨 Data Visualization  
-<span><img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40px"/> Matplotlib</span>  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo.png" width="40px"/> Plotly</span>  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)  
 
 ### 📝 Natural Language Processing (NLP)  
-<span><img src="https://www.nltk.org/_static/nltk_logo.png" width="40px"/> NLTK</span>  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="40px"/> spaCy</span>  
-<span><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/> Hugging Face Transformers</span>  
+![NLTK](https://img.shields.io/badge/-NLTK-32A852?logo=python&logoColor=white&style=for-the-badge)  
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=python&logoColor=white&style=for-the-badge)  
+![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFDD00?logo=huggingface&logoColor=white&style=for-the-badge)  
 
 ## 🚀 Tools & Platforms  
 ### ☁ Cloud & Big Data  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px"/> AWS</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px"/> Google Cloud</span>  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Google_BigQuery_Logo.svg" width="40px"/> BigQuery</span>  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)  
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge)  
 
 ### 🛠 MLOps & Deployment  
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40px"/> Flask</span>  
-<span><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40px"/> FastAPI</span>  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)  
 
 ### ⚡ Databases  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/> MySQL</span>  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
 
 ### 📌 Version Control & DevOps  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/> Git</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/> GitHub</span>  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
 
 ---
+ 
+
+
+
 
 
 
