@@ -50,6 +50,61 @@
   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/574dbe16-1a7b-4787-9aaf-0990bffba958/1398037130/matplotlib-Matplotlib_icon.svg.png" height="40" alt="LOGO"  />
 </div>
 
+
+## 🔥 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
+
+## 📚 Libraries & Frameworks  
+### 🏆 Machine Learning  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)  
+
+### 🧠 Deep Learning  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)  
+
+### 📊 Data Analysis & Processing  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)  
+
+### 🎨 Data Visualization  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)  
+
+### 📝 Natural Language Processing (NLP)  
+![NLTK](https://img.shields.io/badge/-NLTK-32A852?logo=python&logoColor=white&style=for-the-badge)  
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=python&logoColor=white&style=for-the-badge)  
+![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFDD00?logo=huggingface&logoColor=white&style=for-the-badge)  
+
+## 🚀 Tools & Platforms  
+### ☁ Cloud & Big Data  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)  
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge)  
+
+### 🛠 MLOps & Deployment  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)  
+
+### ⚡ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+
+### 📌 Version Control & DevOps  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+
+---
+ 
+
+
+
+
+
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
