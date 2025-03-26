@@ -101,9 +101,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## <center>🔥   My Stats :</center>
 
----
+
 
 
 
