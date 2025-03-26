@@ -4,7 +4,7 @@
 
 ###
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 <div align="center">
  <a href="http://www.linkedin.com/in/SH4N1D">
    
@@ -124,7 +124,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SH4N1D&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph"  />
 </div>
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SH4N1D&theme=react-dark)
 ###
 
 <picture>
