@@ -4,7 +4,7 @@
 
 ###
 
-![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
+
 <div align="center">
  <a href="http://www.linkedin.com/in/SH4N1D">
    
@@ -28,7 +28,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Shanid <br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p>
+<p align="left">I'm Shanid <br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p> ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ###
 <!--
@@ -120,11 +120,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SH4N1D&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph"  />
-</div>
+
+-->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SH4N1D&theme=react-dark)
+</div>
 ###
 
 <picture>
