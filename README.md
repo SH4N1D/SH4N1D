@@ -115,10 +115,6 @@
 
 
 
-
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -141,9 +137,10 @@
 
 ###
 <div align="center">
+
 ###
   
-<h3 align="left">Trophy Case</h3>
+### <h3 align="center">Trophy Case</h3>
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SH4N1D&theme=darkhub&row=1)
 
