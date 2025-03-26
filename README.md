@@ -101,7 +101,7 @@
 
 ###
 
-## <center>🔥   My Stats :</center>
+## <div align="center">🔥   My Stats : </div>
 
 
 
