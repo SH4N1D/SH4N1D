@@ -134,11 +134,13 @@
 
 <div align="center">
 
----
+
 
   
-### <h3 align="center">Trophy Case</h3>
-  
+## <center>Trophy Case </center>
+
+
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SH4N1D&theme=darkhub&row=1)
 
 
