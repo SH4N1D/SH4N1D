@@ -58,7 +58,6 @@
 ## 🔥 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
 
 ## 📚 Libraries & Frameworks  
 ### 🏆 Machine Learning  
@@ -76,7 +75,6 @@
 
 ### 🎨 Data Visualization  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)  
 
 ### 📝 Natural Language Processing (NLP)  
 ![NLTK](https://img.shields.io/badge/-NLTK-32A852?logo=python&logoColor=white&style=for-the-badge)  
@@ -87,7 +85,6 @@
 ### ☁ Cloud & Big Data  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)  
-![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge)  
 
 ### 🛠 MLOps & Deployment  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
