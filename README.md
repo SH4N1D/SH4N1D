@@ -113,11 +113,11 @@
 
 
 
-
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SH4N1D&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph"  />
@@ -127,7 +127,7 @@
 </div>
 
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SH4N1D/SH4N1D/output/github-snake-dark.svg" />
@@ -135,10 +135,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-###
+
 <div align="center">
 
-###
+
   
 ### <h3 align="center">Trophy Case</h3>
   
