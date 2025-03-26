@@ -28,7 +28,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Shanid <br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p> ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
+<p align="left">I'm Shanid <br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ###
 <!--
@@ -138,6 +140,10 @@
 </picture>
 
 ###
+<div align="center">
+### Trophy Case
+![Trophies](https://github-profile-trophy.vercel.app/?username=SH4N1D&theme=darkhub&row=1)
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SH4N1D/count.svg?"  />
