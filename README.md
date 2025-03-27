@@ -34,38 +34,11 @@
 
 <p align="left">I'm<b> Shanid </b><br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p> 
 
-<!-- Portfolio Section -->
-<section id="portfolio">
-    <h2>Visit My Portfolio</h2>
-    <div class="portfolio-link">
-        <a href="https://your-portfolio-link.com" target="_blank">🌐 View Portfolio</a>
-    </div>
-</section>
+## 🌐 Visit My Portfolio  
+<a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
+</a>
 
-<!-- CSS Styles -->
-<style>
-    #portfolio {
-        text-align: center;
-        padding: 50px 20px;
-        background: #f8f9fa;
-    }
-    .portfolio-link a {
-        display: inline-block;
-        padding: 12px 24px;
-        font-size: 18px;
-        font-weight: bold;
-        color: white;
-        background: linear-gradient(135deg, #007bff, #00d4ff);
-        border-radius: 8px;
-        text-decoration: none;
-        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-    .portfolio-link a:hover {
-        transform: scale(1.1);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-    }
-</style>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
