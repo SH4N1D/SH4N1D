@@ -38,17 +38,9 @@
 
 ## 🌐 Visit My Portfolio  
 <p align="center">
-    <a href="https://your-portfolio-link.com" target="_blank" style="
-        display: inline-block;
-        padding: 12px 24px;
-        font-size: 18px;
-        font-weight: bold;
-        color: white;
-        background: #007bff;
-        border-radius: 8px;
-        text-decoration: none;
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
-    ">🚀 View Portfolio</a>
+   <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
+</a>
 </p>
 
 
