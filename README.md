@@ -34,6 +34,12 @@
 
 <p align="left">I'm<b> Shanid </b><br><br>- 🔭 I’m a post graduate student <br>- 📚 I'm currently learning MCA<br>- ⚡ In my free time I learn about Data Science , and Data Analytics</p> 
 
+ <div class="portfolio-link">
+        <a href="https://your-portfolio-link.com" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
+        </a>
+    </div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ###
