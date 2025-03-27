@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="Discord"/>
 </a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/shanidpsha)  
+<a href="https://www.hackerrank.com/profile/shanidpsha" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank"  height="25" alt="HackerRank Badge">
+</a>
   
 </div>
 
