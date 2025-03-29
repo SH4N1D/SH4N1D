@@ -21,6 +21,9 @@
 <a href="https://www.hackerrank.com/profile/shanidpsha" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank"  height="25" alt="HackerRank Badge">
 </a>
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sh4n1d)
+
   
 </div>
 
