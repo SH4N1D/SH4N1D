@@ -18,13 +18,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"/>
 </a>
 
- 
-<a href="https://www.hackerrank.com/profile/shanidpsha" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank"  height="25" alt="HackerRank Badge">
+<a href="https://www.kaggle.com/sh4n1d">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle logo"/>
 </a>
 
-<a href="https://www.kaggle.com/sh4n1d" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" height="25" alt="Kaggle Badge">
+<a href="https://www.hackerrank.com/profile/shanidpsha">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo"/>
 </a>
 
   
