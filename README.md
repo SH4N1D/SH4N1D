@@ -13,10 +13,12 @@
 <a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </a>
-  <a href="mailto:shanidpsha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?logo=gmail&logoColor=white" height="25" alt="Gmail Badge">
+
+<a href="mailto:shanidpsha@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"/>
 </a>
 
+ 
 <a href="https://www.hackerrank.com/profile/shanidpsha" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank"  height="25" alt="HackerRank Badge">
 </a>
