@@ -21,7 +21,9 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank"  height="25" alt="HackerRank Badge">
 </a>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sh4n1d)
+<a href="https://www.kaggle.com/sh4n1d" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" height="25" alt="Kaggle Badge">
+</a>
 
   
 </div>
