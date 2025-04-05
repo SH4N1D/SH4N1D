@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h1 align="center">Hey there <a href="#"><img src="https://github.com/SH4N1D/SH4N1D/blob/main/Images/wave.gif" width="30px"></a></h1>
+<h1 align="center">Hey there <a href="#"><img src=https://media3.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952fxbc087bmnn1llt3edk3hecupl1gktt90v1ql3kq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30px"></a></h1>
 
 ## 👩‍💻 About Me
 
