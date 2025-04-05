@@ -52,6 +52,7 @@
 
 <div align="center">
   <h2>Trophy Case</h2>
+  
   ![Trophies](https://github-profile-trophy.vercel.app/?username=SH4N1D&theme=darkhub&row=1)
 </div>
 
