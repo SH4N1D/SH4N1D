@@ -66,4 +66,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SH4N1D/SH4N1D/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
