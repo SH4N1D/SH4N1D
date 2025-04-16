@@ -60,9 +60,4 @@
   <img src="https://profile-counter.glitch.me/SH4N1D/count.svg?" alt="Profile Counter" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SH4N1D/SH4N1D/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SH4N1D/SH4N1D/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SH4N1D/SH4N1D/output/pacman-contribution-graph.svg">
-</picture>
 
