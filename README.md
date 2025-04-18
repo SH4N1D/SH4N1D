@@ -83,7 +83,7 @@
 
 ## 🌐 Visit My Portfolio  
 <div align="center">
-  <a href="https://sh4n1d.github.io/Myportfolio/" target="_blank">
+  <a href="https://sh4n1d.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4169E1?style=plastic&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
