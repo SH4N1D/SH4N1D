@@ -31,33 +31,30 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ---
-
 ## 🛠️ Languages & Tools for Data Science
+
 
 <details>
   <summary>👨‍💻 Programming Languages</summary>
   <br/>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
 </details>
-
 <details>
-  <summary>📊 Libraries & Frameworks</summary>
+  <summary>📊 Libraries, Frameworks & BI Tools</summary>
   <br/>
   <div align="center">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-4C55A5?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </div>
 </details>
-
 <details>
   <summary>🧰 Tools & IDEs</summary>
   <br/>
@@ -70,7 +67,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </div>
 </details>
-
 <details>
   <summary>☁️ Cloud Platforms</summary>
   <br/>
@@ -81,15 +77,6 @@
   </div>
 </details>
 
-<details>
-  <summary>📈 BI Tools & Analytics</summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-    <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </div>
-</details>
 
 ---
 
@@ -117,8 +104,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SH4N1D&theme=darkhub&row=1" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SH4N1D/count.svg?" alt="Profile Counter" />
-</div>
