@@ -22,7 +22,7 @@
 
 <h1 align="center">Hey there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a></h1>
 
-## <img src="Images/Animation - 1744822865913.gif" ,height="10%>About Me
+## <img src="Images/Animation - 1744822865913.gif" ,height="10%">About Me
 
 <p align="left">
   I'm <b>Shanid</b>, an MCA student exploring the world of data. I enjoy working on real-world projects using Python, ML, and BI tools like Power BI. Always up for learning something new and building cool stuff!
