@@ -2,7 +2,6 @@
   <img src="Images/Banner.jpg" alt="Banner" />
 </div>
 
-
 <div align="center">
   <a href="http://www.linkedin.com/in/SH4N1D">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
@@ -26,14 +25,14 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-  Hi! I'm <b>Shanid</b>, a passionate tech enthusiast currently pursuing my Master's in Computer Applications (MCA). I'm deeply interested in the world of data and spend my free time diving into Data Science and Analytics. I enjoy exploring new technologies, learning new tools, and building projects that solve real-world problems. Let's connect and grow together!
+  I'm <b>Shanid</b>, an MCA student exploring the world of data. I enjoy working on real-world projects using Python, ML, and BI tools like Power BI. Always up for learning something new and building cool stuff!
 </p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ---
 ## 🛠️ Languages & Tools for Data Science
-
 
 <details>
   <summary>👨‍💻 Programming Languages</summary>
@@ -68,6 +67,7 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </div>
 </details>
+<br>
 <details>
   <summary>☁️ Cloud Platforms</summary>
   <br/>
@@ -81,12 +81,16 @@
 
 ---
 
+
 ## 🌐 Visit My Portfolio  
 <div align="center">
   <a href="https://sh4n1d.github.io/Myportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4169E1?style=plastic&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
+
+
+
 
 ---
 
