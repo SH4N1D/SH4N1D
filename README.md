@@ -29,7 +29,7 @@
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
+ ![Profile Views](https://k omarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ---
 ## 🛠️ Languages & Tools for Data Science
