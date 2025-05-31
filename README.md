@@ -32,6 +32,23 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=SH4N1D&color=blueviolet)
 
 ---
+
+## 🌍 Community Profiles & Involvements
+
+<div align="center">
+  <a href="https://connect.asapkerala.gov.in/profile/5945019" target="_blank">
+    <img src="https://img.shields.io/badge/ASAP%20Kerala-View_Profile-0D9488?style=for-the-badge&logo=govdotin&logoColor=white" height="30" alt="ASAP Kerala Profile" />
+  </a>
+  <a href="https://app.mulearn.org/profile/shanid@mulearn" target="_blank">
+    <img src="https://img.shields.io/badge/μLearn%20Community-View_Profile-8E44AD?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" alt="μLearn Profile" />
+  </a>
+</div>
+
+
+---
+
+
+
 ## 🛠️ Languages & Tools for Data Science
 
 <details>
