@@ -37,12 +37,13 @@
 
 <div align="center">
   <a href="https://connect.asapkerala.gov.in/profile/5945019" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ASAP%20Kerala&logo=govdotin&label=&color=38B2AC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ASAP Kerala logo"/>
+    <img src="https://img.shields.io/badge/ASAP_Kerala-Visit_Now-38B2AC?style=plastic&logo=govdotin&logoColor=white" height="25" alt="ASAP Kerala badge"/>
   </a>
   <a href="https://app.mulearn.org/profile/shanid@mulearn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=μLearn&logo=google-chrome&label=&color=9B59B6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="μLearn logo"/>
+    <img src="https://img.shields.io/badge/μLearn-Visit_Now-9B59B6?style=plastic&logo=google-chrome&logoColor=white" height="25" alt="μLearn badge"/>
   </a>
 </div>
+
 
 
 
